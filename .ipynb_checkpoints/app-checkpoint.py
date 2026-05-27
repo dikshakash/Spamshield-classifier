@@ -374,7 +374,7 @@ def main():
     # Footer
     st.markdown("""
     <div class="footer">
-        <p>Developed with ❤️ by Mohd Shami | Spam Shield Pro v2.1 | © 2025 All rights reserved</p>
+        <p>Developed with ❤️ by Diksha kashyap  | Spam Shield Pro v2.1 | © 2025 All rights reserved</p>
     </div>
     """, unsafe_allow_html=True)
 
